@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @capa777
+- 🌱 I’m currently learning Java and Java ecosystem
+- 📫 You can reach me at patrykcapanda@interia.pl
