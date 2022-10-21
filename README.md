@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @capa777
 - 🌱 I’m currently learning Java and Java ecosystem
-- 📫 You can reach me at patrykcapanda@interia.pl
+- ⚡ I enjoy video games, playing football, and reading
+- 📫 Reach out to me: patrykcapanda@interia.pl
